@@ -1,7 +1,8 @@
 class product
 {
-public static void main()
+public static void main(string args[])
 {
-print("hellow");
+system.out.println("hellow");
+system.out.println("welcome");
 }
 }
